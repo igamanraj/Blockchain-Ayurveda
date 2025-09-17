@@ -474,7 +474,7 @@ function App() {
           
           <div className="border-t border-gray-800 pt-8 text-center">
             <p className="text-gray-400">
-              © 2024 HerbTrace. All rights reserved. Building trust through transparency.
+              © 2025 HerbTrace. All rights reserved. Building trust through transparency.
             </p>
           </div>
         </div>
